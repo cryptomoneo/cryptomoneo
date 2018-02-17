@@ -1,0 +1,11 @@
+# basic options
+title: CryptoMoneo
+author: Bitchain Investments
+email: cryptomoneo@protonmail.com
+description: We provide a valueable inside information to help you with your cryptocurrency investments. 
+twitter_username: CryptoMoneo
+github_username:  CryptoMoneo
+
+# Build settings
+markdown: kramdown
+theme: minima
